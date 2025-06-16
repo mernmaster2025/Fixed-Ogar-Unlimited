@@ -36,7 +36,7 @@ process.on('exit', (code) => {
 
 // init/start the control server
 multiverse.init();
-setTimeout(function() {multiverse.start()},1500);
+setTimeout(function() {multiverse.start()}, 1500);
 
 // Initialize the server console
 if (showConsole) {

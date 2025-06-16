@@ -63,7 +63,6 @@
 <nasa>nasa
 <netherlands>netherlands
 <nigeria>nigeria
-<north_korea>north korea
 <norway>norway
 <origin>origin
 <pakistan>pakistan
@@ -87,7 +86,6 @@
 <sealand>sealand
 <sir>sir
 <somalia>somalia
-<south_korea>south korea
 <spain>spain
 <stalin>stalin
 <steam>steam

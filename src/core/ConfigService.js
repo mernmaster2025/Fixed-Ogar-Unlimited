@@ -262,8 +262,8 @@ module.exports = class ConfigService {
   getSkins() {
     return this.skins;
   }
-  loadUniBan() {
 
+  loadUniBan() {
     request('https://raw.githubusercontent.com/sethdm02/Ogar-Unlimited-With-Client/master/src/uniban.txt', function(error, response, body) {
       var data = '';
       if (!error && response.statusCode == 200) {
@@ -323,7 +323,7 @@ module.exports = class ConfigService {
     }
     this.log('[\x1b[34mINFO\x1b[0m] Loading Config Files...');
     let configFiles = glob.sync(__dirname + "/../settings/*.ini");
-    if (configFiles === []) {
+    if (configFiles == []) {
       this.log("[\x1b[34mINFO\x1b[0m] No config files found, generating: src/settings/config.ini");
 
       // Create a new config

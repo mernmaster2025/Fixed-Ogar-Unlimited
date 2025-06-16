@@ -68,7 +68,6 @@ moon :http://agarioskins.com/img/skin/moon.png
 nasa :http://agarioskins.com/img/skin/nasa.png
 netherlands :http://agarioskins.com/img/skin/netherlands.png
 nigeria :http://agarioskins.com/img/skin/nigeria.png
-north_korea :http://agarioskins.com/img/skin/north%20korea.png
 norway :http://vignette3.wikia.nocookie.net/agario/images/0/0f/Norway.png/revision/latest?cb=20150626171303
 pakistan :http://agarioskins.com/img/skin/pakistan.png
 patriarchy :http://agarioskins.com/img/skin/patriarchy.png
@@ -91,7 +90,6 @@ scotland :http://www.agarioguide.com/wp-content/uploads/2015/05/scotland.png
 sealand :http://agarioskins.com/img/skin/sealand.png
 sir :http://agarioskins.com/img/skin/sir.png
 somalia :http://agarioskins.com/img/skin/somalia.png
-south_korea :http://agarioskins.com/img/skin/south%20korea.png
 spain :http://agarioskins.com/img/skin/spain.png
 stalin :http://agarioskins.com/img/skin/stalin.png
 steam :http://agarioskins.com/img/skin/steam.png
